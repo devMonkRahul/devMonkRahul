@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rahul (@devMonkRahul)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Flutter+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -28,7 +28,6 @@ I'm a passionate full-stack developer who loves turning ideas into reality throu
 ### Frontend Development
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -86,11 +85,11 @@ I'm a passionate full-stack developer who loves turning ideas into reality throu
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devMonkRahul&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devMonkRahul&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devMonkRahul&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devMonkRahul&theme=radical" alt="GitHub Profile Summary" />
 </div>
 
 ## 🏆 GitHub Trophies
@@ -120,12 +119,6 @@ An intelligent machine learning project using YOLO object detection to identify 
 A high-performance, scalable real-time chat application built with modern microservices architecture. Uses Redis for session management, PostgreSQL for data persistence, and Kafka for message queuing to handle thousands of concurrent users.
 
 **Tech Stack:** Node.js, Redis, PostgreSQL, Apache Kafka, WebSocket, Docker
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devMonkRahul&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</div>
 
 ## 🎯 Current Focus
 
